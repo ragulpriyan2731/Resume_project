@@ -1,0 +1,14 @@
+.row{
+    
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.picture{
+    height: 110px;
+    border-radius: 65px;
+}
+.par{
+align-items: self-start;
+
+}
